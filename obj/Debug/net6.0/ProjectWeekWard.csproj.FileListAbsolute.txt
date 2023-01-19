@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\ProjectWeekWard\bin\Debug\net6.0\ProjectWeekWard.exe
+D:\multimedi\Cscherp\ProjectWeekWard\bin\Debug\net6.0\ProjectWeekWard.deps.json
+D:\multimedi\Cscherp\ProjectWeekWard\bin\Debug\net6.0\ProjectWeekWard.runtimeconfig.json
+D:\multimedi\Cscherp\ProjectWeekWard\bin\Debug\net6.0\ProjectWeekWard.dll
+D:\multimedi\Cscherp\ProjectWeekWard\bin\Debug\net6.0\ProjectWeekWard.pdb
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.AssemblyInfo.cs
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.dll
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\refint\ProjectWeekWard.dll
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.pdb
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ProjectWeekWard.genruntimeconfig.cache
+D:\multimedi\Cscherp\ProjectWeekWard\obj\Debug\net6.0\ref\ProjectWeekWard.dll
